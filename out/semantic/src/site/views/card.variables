@@ -1,0 +1,7 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@boxShadow: none;
+@background: transparent;
+@contentPadding: 1em 0;

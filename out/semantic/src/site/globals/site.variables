@@ -1,0 +1,23 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName          : 'Crimson Text';
+@fontSmoothing     : antialiased;
+
+/* This is the single variable that controls them all */
+@emSize   : 16px;
+
+/* The size of page text  */
+@fontSize : 16px;
+@linkColor: @textColor;
+@linkHoverUnderline  : underline;
+
+@relativeBorderRadius: 0;
+@absoluteBorderRadius: 0;
+
+@defaultBorderRadius: 0;
+@pageBackground: #fffdf3;
+
+@subtleGradient: none;
+@offWhite: transparent;
